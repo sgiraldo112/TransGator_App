@@ -1,0 +1,159 @@
+.special-font {
+  font-family: 'Lobster';
+  text-align: center;
+  position: relative;
+}
+.hometitle {
+  font-size: 7rem;
+  margin: 0 auto;
+  top: 8rem;
+}
+
+.drops {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  top: 10rem;
+}
+
+.drop1 {
+  top: 60rem;
+}
+
+.drop2 {
+  top: 24rem;
+}
+
+.gobutt {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  top: 11rem;
+  left: 85%;
+}
+
+.otherscreens {
+  margin: 0 auto;
+  top: 2rem;
+}
+
+.logo-top {
+  font-size: 4rem;
+}
+
+.show-languages {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Geneva, Verdana, sans-serif;
+  top: 2rem;
+  font-size: 2rem;
+}
+
+.lang1 {
+  color: blue;
+}
+
+.lang2 {
+  color: red;
+}
+
+.translate-how {
+  top: 7rem;
+}
+
+.drop-local {
+  top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.right-arrow {
+  position: fixed;
+  height: 50rem;
+  float: right;
+  margin-left: 100%;
+}
+.left-arrow {
+  height: 50%;
+  float: left;
+  margin-right: 100%;
+}
+
+.break-line {
+  top: 2rem;
+}
+
+.new-line {
+  top: 2rem;
+}
+
+.new-new-line {
+  top: 4rem;
+}
+
+.icons-here {
+  position: relative;
+}
+
+.img-resize {
+  width: 75%;
+}
+
+.icon-to-text {
+  position: relative;
+  padding-top: 55%;
+}
+
+.complete-interact {
+  margin-top: 70%;
+}
+
+.tran-box {
+  margin-top: 2.1rem;
+  height: 10rem;
+  width: 25rem;
+  text-align: center;
+}
+.butt-go {
+  margin-top: 2rem;
+  margin-left: 70%;
+}
+
+.left-arrow-n {
+  float: left;
+  margin-right: 100%;
+}
+
+.right-arrow-n {
+  float: right;
+  margin-left: 100%;
+}
+
+.trappy {
+  height: 20rem;
+  overflow: auto;
+}
+
+.boxy {
+  padding: 4rem;
+}
+
+.complete-interaction {
+  position: relative;
+  top: 15rem;
+}
+
+.fails {
+  position: relative;
+  top: 25rem;
+}
+.failss {
+  position: relative;
+  top: 5rem;
+}
+
+.failsss {
+  position: relative;
+  top: 6rem;
+  margin-left: 30%;
+}
