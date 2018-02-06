@@ -1,6 +1,7 @@
 var express = require('express');
 var axios = require('axios');
 var bodyParser = require('body-parser');
+var port = process.env.PORT || 8080;
 
 var app = express();
 app.use(express.static('public'));
@@ -26,5 +27,5 @@ app.get('/translate/:to/:text', (req, res) => {
     });
 });
 
-app.listen(8080);
-console.log('Listening on port 8080');
+app.listen(port);
+console.log('Listening to port');
