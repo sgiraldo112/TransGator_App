@@ -157,3 +157,8 @@
   top: 6rem;
   margin-left: 30%;
 }
+
+.do-on-all {
+  height: 80rem;
+  overflow-y: scroll;
+}
